@@ -118,7 +118,7 @@ http://website-project-naimur.s3-website-ap-southeast-1.amazonaws.com/
 ## 👨‍💻 Author
 **MD Naimur Rashid**  
 Student of Internet of Things & Robotics Engineering  
-Bangladesh Digital University  
+University of Frontier Technology, Bangladesh  
 
 ---
 
