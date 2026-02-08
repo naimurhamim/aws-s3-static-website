@@ -75,6 +75,25 @@ website-project-naimur/
 ### Step 5: Access the Website
 After enabling static website hosting, AWS generated a website endpoint.
 
+---
+
+## 📸 Screenshots
+
+### 🔹 S3 Bucket Objects
+![S3 Bucket Objects](screenshots/bucket-objects.png)
+
+### 🔹 Static Website Hosting Enabled
+![Static Website Hosting](screenshots/static-hosting.png)
+
+### 🔹 Public Access Configuration
+![Make Objects Public](screenshots/make-public.png)
+
+### 🔹 Live Website Output
+![Live Website](screenshots/live-website.png)
+
+---
+
+
 🔗 **Live Website URL:**
 http://website-project-naimur.s3-website-ap-southeast-1.amazonaws.com/
 
