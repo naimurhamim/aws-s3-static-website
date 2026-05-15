@@ -1,4 +1,9 @@
 # 🌐 Static Website Hosting on AWS S3
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-Static%20Hosting-green?style=for-the-badge&logo=amazons3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Web Deploy](https://img.shields.io/badge/Web-Deployment-blue?style=for-the-badge)
 
 ## 📌 Project Overview
 This project demonstrates the deployment of a **static portfolio website** using **Amazon Web Services (AWS) S3**.  
